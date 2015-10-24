@@ -1,0 +1,12 @@
+//Room 30
+-1 -1 29 31
+0
+None
+trail4.JPG
+Trail 6.
+You continue on trail 6.
+A slight breeze in the air
+chills you a little. The
+path meanders to the east 
+and to the west, and you
+meander along with it.

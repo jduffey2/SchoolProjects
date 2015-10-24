@@ -1,0 +1,14 @@
+//Room 22
+17 -1 21 -1
+0
+None
+trail9.JPG
+Trail 9.
+Trail 9.
+The rough terrain takes its toll on
+your aching body and you stumble over
+a jagged rock protruding from the ground.
+You get some cuts and scrapes that bleed 
+a little and hurt a lot. The start of trail
+9 is to the north and the trail continues to
+the east.

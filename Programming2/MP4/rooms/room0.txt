@@ -1,0 +1,10 @@
+//Room 0
+-1 -1 -1  1
+0
+None
+room0.JPG
+You are at the Entrance to Pokagon Park.
+You are at the Entrance to Pokagon Park. You are
+driving down route 727 and see an eerie glow in 
+the distance. You decide to investigate. You can
+see the Gatehouse to the west.

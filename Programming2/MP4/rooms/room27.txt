@@ -1,0 +1,12 @@
+//Room 27
+-1 -1 28 26
+0
+None
+trail1.JPG
+Trail 6
+You are on trail 6. The
+path is relatively easy to
+traverse and is actually a little
+refreshing. You stroll along the path
+and whistle a little tune. It continues
+to the east and west.

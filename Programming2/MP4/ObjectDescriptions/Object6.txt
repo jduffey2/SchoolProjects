@@ -1,0 +1,6 @@
+//Aerosol Can, Object 6
+Aerosol can
+10
+An empty aerosol can, this
+must be what the scientist
+wanted.

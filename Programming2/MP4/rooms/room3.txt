@@ -1,0 +1,17 @@
+//Room 3
+2 4 -1 5
+9
+Cupcakes
+room3.JPG
+You are at the Potawatomi Inn. You need a vial of liquid, spring water, a powder, and an aerosol can.
+You are at the Potawatomi Inn.
+Many people are crowded inside the building
+enjoying Cupcakes. As someone offers you one
+you hear whispers of zombies in the area
+and a scientist says he can stop the outbreak
+of zombies if someone can gather the ingredients.
+He requires: a vial of liquid, spring water, a
+powder, and an aerosol can to dispense it. It is
+up to you to save the world!! The parking lot is to 
+the north. The boat rentals are to the south, and the
+volleyball nets are to the west.

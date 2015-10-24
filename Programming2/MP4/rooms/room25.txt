@@ -1,0 +1,12 @@
+//Room 25
+24 26 -1 -1
+0
+None
+wet1.JPG
+Trail 3.
+You continue on Trail 3.
+The ground here is super soft
+and moist. This must be low lying
+ground because there are many puddles
+from the recent rains. You see the 
+path continues to the north and the south.

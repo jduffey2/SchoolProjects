@@ -1,0 +1,9 @@
+//Room 6
+7 2 -1 -1
+0
+None
+start3.JPG
+You are at the head of Trail 3.
+You are at the head of Trail 3.
+The trail continues to the north
+and the parking lot is to the south.

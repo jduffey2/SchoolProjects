@@ -1,0 +1,13 @@
+//Room 23
+16 24 -1 -1
+6
+Aerosol can
+wet1.JPG
+Trail 3
+You are on Trail 3.
+The ground is starting to get soft
+beneath your feet. This is a low
+lying area and the drainage is not
+that good. The recent rains have 
+made this area very soft. The trail
+continues north and south.

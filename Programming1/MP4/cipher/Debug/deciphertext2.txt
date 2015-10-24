@@ -1,0 +1,4 @@
+Hello! This is me demonstrating my cipher program. I am going to
+#include symbols and at least 1 number into
+this file so that I can demonstrate that my program works with
+1. $ymb01s and 2. #'s.

@@ -1,0 +1,7 @@
+//Oak leaves, Object 8
+Oak leaves
+5
+A small pile of oak leaves
+lie on the ground, a 
+beautiful shade of red on this
+crisp fall afternoon.

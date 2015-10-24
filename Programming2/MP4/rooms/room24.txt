@@ -1,0 +1,14 @@
+//Room 24
+23 25 -1 -1
+0
+None
+trail10.JPG
+Trail 3.
+You are on Trail 3 crossing
+Route 727. You cross under in
+a tunnel that runs beneath the road.
+You do not hear many cars on the road
+despite it being a large highway. It
+is also very dark in this room and you
+are likely to be eaten by a grue. The
+trail continues to the north and south.

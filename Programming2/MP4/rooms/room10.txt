@@ -1,0 +1,10 @@
+//Room 10
+-1 9 -1 11
+0
+None
+zombie.JPG
+You are at the Youth Tent Camp.
+You are at the Youth Tent Camp.
+You realize now this is the source
+of the growling. The trail is to
+the west and south.

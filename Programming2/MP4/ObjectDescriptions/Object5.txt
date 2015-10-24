@@ -1,0 +1,6 @@
+//Powder, object 5
+Powder
+10
+Unfamiliar substance, but
+it must be what the scientist
+asked for.

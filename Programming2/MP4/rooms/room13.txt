@@ -1,0 +1,10 @@
+//Room 13
+-1 12 14 -1
+0
+None
+trail4.JPG
+You are on Trail 3.
+You are on Trail 3.
+There is what sounds like faint
+growling in the distance. The trail
+continues east and south.

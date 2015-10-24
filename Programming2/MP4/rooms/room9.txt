@@ -1,0 +1,11 @@
+//Room 9
+10 -1 8 -1
+0
+None
+trail2.JPG
+You are on Trail 2.
+You are on Trail 2.
+As you round a corner the growling 
+grows louder and seems
+to be in the vicinity.The trail 
+runs north and east.

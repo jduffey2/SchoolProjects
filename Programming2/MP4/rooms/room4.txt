@@ -1,0 +1,12 @@
+//Room 4
+3 -1 -1 5
+1
+Vial of Liquid
+room4.JPG
+You are at the boat docks. A large chest is here.
+You are at the boat docks.
+No one is renting out boats at the
+moment. You see a large chest that upon
+closer examination is locked. The volleyball
+courts are to the west, and the Inn is north
+from here.

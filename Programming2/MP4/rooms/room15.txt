@@ -1,0 +1,12 @@
+//Room 15
+-1 16 -1 14
+13
+Key
+hell.JPG
+You are at Hell's Point.
+You are at Hell's Point.
+The view as magnificent here, as
+you see many large trees and a 
+mysterious glow. You cannot tell
+the source of the glow. The trail
+continues south and west.

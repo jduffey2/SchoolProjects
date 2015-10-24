@@ -1,0 +1,5 @@
+//Canteen, Object 4
+Canteen
+7
+There is room in here to
+store water for a few days.

@@ -1,0 +1,13 @@
+//Room 2
+6 3 33 1
+0
+None
+room2.JPG
+You are in the parking lot of Pokagon Park.
+You are in the parking lot of Pokagon Park.
+There are few cars in the parking lot. But it
+looks like some vandels have broken into many
+of the cars. You park and lock your doors after
+getting out to investigate the glow. The Potawatomi
+Inn is to the south, there are two trail heads to the 
+east and north, and the Gatehouse is to the west.

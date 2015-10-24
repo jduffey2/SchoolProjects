@@ -1,0 +1,10 @@
+//Room 7
+8 6 -1 -1
+0
+None
+trail1.JPG
+You are on Trail 3.
+You are on Trail 3.
+As you walk along the trail
+you begin to hear a faint growling.
+The trail runs north and south.

@@ -1,0 +1,10 @@
+//Room 17
+-1 22 18 16
+0
+None
+split1.JPG
+You are at the entrance to Trail 9.
+You are at the entrance to Trail 9.
+A sign indicates that it is one large
+loop. It begins and ends here to the 
+south and east. Trail 3 is back to the west.

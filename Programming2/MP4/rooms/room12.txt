@@ -1,0 +1,9 @@
+//Room 12
+13 8 -1 -1
+0
+None
+trail3.JPG
+You are on Trail 3.
+You are on Trail 3.
+You hear growling in the distance.
+The trail continues north and south.

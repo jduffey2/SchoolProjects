@@ -1,0 +1,5 @@
+//Binoculars, object 12
+Binoculars
+5
+A pair of cold wet binoculars,
+these could be useful later.

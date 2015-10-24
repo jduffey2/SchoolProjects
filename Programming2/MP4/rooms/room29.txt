@@ -1,0 +1,12 @@
+//Room 29
+-1 -1 28 30
+5
+Powder
+trail3.JPG
+Trail 6.
+You continue on trail 6.
+A slight breeze in the air
+chills you a little. The
+path meanders to the east 
+and to the west, and you
+meander along with it.

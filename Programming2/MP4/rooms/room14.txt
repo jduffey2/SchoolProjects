@@ -1,0 +1,10 @@
+//Room 14
+-1 -1 15 13
+10
+Deer
+deer.JPG
+You are on Trail 3, a family of deer is here.
+You are on Trail 3, a family of deer is here.
+One of the deer approaches you cautiously.
+It wants to follow you. The trail continues
+to the east and west.

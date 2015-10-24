@@ -1,0 +1,12 @@
+//Room 20
+-1 21 -1 19
+0
+None
+trail7.JPG
+Trail 9 Clearing.
+Trail 9 Clearing.
+You have some relief from the
+rugged terreain that is Trail 9.
+You are in a small clearing. The
+terrain look rough again to the 
+south and west.

@@ -1,0 +1,10 @@
+//Room 1
+-1 2 0 -1
+0
+None
+room1.JPG
+You are at the Gatehouse in the front of the park.
+You are at the Gatehouse in the front of the park.
+No one is manning the gate and it looks like the lock
+has been ripped off. Route 727 is back to the east and
+the parking lot is down the road to the south.

@@ -1,0 +1,14 @@
+//Room 28
+27 29 -1 -1
+7
+Acorns
+trail2.JPG
+Trail 6.
+You are on Trail 6.
+Ancient oak trees grow on
+either side of you. It is
+a crisp fall day, the recent
+rains seem to have cleared 
+the atmosphere of all its problems
+Acorns from these acient oaks 
+litter the ground around you.

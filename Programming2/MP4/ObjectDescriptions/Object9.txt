@@ -1,0 +1,6 @@
+//Cupcakes, Object 9
+Cupcakes
+6
+There are 3 lemon cupcakes, each
+carefully designed as though
+they were made for a special occasion.

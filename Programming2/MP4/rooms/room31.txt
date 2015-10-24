@@ -1,0 +1,14 @@
+//Room 31
+-1 30 32 33
+0
+None
+split1.JPG
+Trail 3/Trail 6
+You are at a fork in the
+road. Trail 6 breaks off
+of Trail 3 from here. There
+is a sign that says Trail 6
+only adds one half of a mile and
+is easy to traverse. It breaks off
+to the south, and Trail 3 continues
+to the east and west.

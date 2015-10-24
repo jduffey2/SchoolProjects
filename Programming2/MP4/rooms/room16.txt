@@ -1,0 +1,11 @@
+//Room 16
+15 23 17 -1
+0
+None
+split2.JPG
+You are at the fork of Trails 3 and 9.
+You are at the fork of Trails 3 and 9.
+Trail 9 is labeled for expert hikers only
+and adds an additonal mile to the hike.
+Trail 3 runs north and south from here.
+Trail 9 breaks off to the east.

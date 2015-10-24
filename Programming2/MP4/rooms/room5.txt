@@ -1,0 +1,10 @@
+//Room 5
+3 -1 4 -1
+0
+None
+room5.JPG
+You are at the Volleyball Courts.
+You are at the Volleyball Courts.
+It is empty and the nets are torn.
+The docks are to the east and the
+Inn is back to the north.

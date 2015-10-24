@@ -1,0 +1,12 @@
+//Room 8
+12 7 -1 9
+11
+Binoculars
+split1.JPG
+You are at the fork of Trails 2 and 3.
+You are at the fork of Trails 2 and 3.
+You are now certain there is growling in
+the distance unsure of the source though.
+There are a pair of binoculars here.
+Trail 2 splits off to the west and Trail
+three continues to the north and south.

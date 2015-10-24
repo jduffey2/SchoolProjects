@@ -1,0 +1,13 @@
+//Room 32
+26 -1 -1 31
+8
+Oak leaves
+trail5.JPG
+Trail 3
+You are on Trail 3. You
+can see Trail 6 looping 
+around you and you can see
+where Trail 6 joins Trail 3
+in either direction. The path
+continues to the west and the 
+north.

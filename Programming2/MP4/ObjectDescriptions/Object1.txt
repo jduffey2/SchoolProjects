@@ -1,0 +1,5 @@
+//Vial of liquid, object 1
+Vial of liquid
+10
+This must be the vial the
+scientist was asking for.

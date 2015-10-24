@@ -1,0 +1,14 @@
+//Room 33
+34 -1 31 2
+0
+None
+start3.JPG
+Trail 3 TrailHead
+You are at the head of trail
+3. A sign here says that it is
+a 2 mile hike around with the
+option to add half a mile and
+another option to add a mile.
+Lake Lonidaw is to the north,
+the parking lot to the west, and
+the trail to the east.

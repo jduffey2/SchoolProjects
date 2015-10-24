@@ -1,0 +1,12 @@
+//Room 34
+-1 33 -1 -1
+4
+Canteen
+lake.JPG
+Lake Lonidaw
+You are at Lake Lonidaw.
+A beautiful, crystal blue
+lake. In the summer it is
+used for fishing and 
+other leisurly activities. But
+now it is abandoned.

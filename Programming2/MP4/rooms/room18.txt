@@ -1,0 +1,11 @@
+//Room 18
+-1 -1 19 17
+0
+None
+trail5.JPG
+Trail 9.
+Trail 9.
+You struggle to hike the rugged
+terrain of trail 9. The sign did
+say it was for experts only. It
+continues to the east and west.

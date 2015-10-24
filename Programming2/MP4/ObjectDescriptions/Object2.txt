@@ -1,0 +1,5 @@
+//Staff, object 2
+Hiking staff
+5
+This staff is pretty sharp...
+I should be careful with this.

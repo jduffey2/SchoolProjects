@@ -1,0 +1,13 @@
+//Room 26
+25 32 27 -1
+0
+None
+split2.JPG
+Trail 3/Trail 6 Split
+You are at a fork in the path
+Trail 6 splits off from Trail 3
+here. A sign indicates that Trail
+6 adds one half of a mile to the hike
+and is of easy difficulty hiking. Trail
+6 is to the east and Trail 3 continues
+north and south.
